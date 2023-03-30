@@ -1,7 +1,7 @@
 {
   "name": "jobster",
   "version": "0.1.0",
-  "homepage": "jobster/#",
+  "homepage": "jobster/index.html",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
