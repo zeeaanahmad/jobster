@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jobster/static/css/main.ef0d92df.css",
-    "main.js": "/jobster/static/js/main.bc04e2ee.js",
-    "static/media/main.svg": "/jobster/static/media/main.17b316de742b3a1202078c5ae18c8261.svg",
-    "static/media/not-found.svg": "/jobster/static/media/not-found.5cfa24fa5e3ca7dffe02f358358ea9df.svg",
-    "static/media/logo.svg": "/jobster/static/media/logo.35bb8e1d9b5745af32ff148cbee51dfa.svg",
-    "index.html": "/jobster/index.html",
-    "main.ef0d92df.css.map": "/jobster/static/css/main.ef0d92df.css.map",
-    "main.bc04e2ee.js.map": "/jobster/static/js/main.bc04e2ee.js.map"
+    "main.css": "/jobster/index.html/static/css/main.ef0d92df.css",
+    "main.js": "/jobster/index.html/static/js/main.ba91fd08.js",
+    "static/media/main.svg": "/jobster/index.html/static/media/main.17b316de742b3a1202078c5ae18c8261.svg",
+    "static/media/not-found.svg": "/jobster/index.html/static/media/not-found.5cfa24fa5e3ca7dffe02f358358ea9df.svg",
+    "static/media/logo.svg": "/jobster/index.html/static/media/logo.35bb8e1d9b5745af32ff148cbee51dfa.svg",
+    "index.html": "/jobster/index.html/index.html",
+    "main.ef0d92df.css.map": "/jobster/index.html/static/css/main.ef0d92df.css.map",
+    "main.ba91fd08.js.map": "/jobster/index.html/static/js/main.ba91fd08.js.map"
   },
   "entrypoints": [
     "static/css/main.ef0d92df.css",
-    "static/js/main.bc04e2ee.js"
+    "static/js/main.ba91fd08.js"
   ]
 }
