@@ -1,7 +1,7 @@
 {
   "name": "jobster",
   "version": "0.1.0",
-  "homepage": "https://zeeaanahmad.github.io/",
+  "homepage": "jobster/#",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
